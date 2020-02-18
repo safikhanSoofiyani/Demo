@@ -7,4 +7,5 @@ int main()
   printf("Message-1 SafiKhanSoofiyani");
   printf("Message-2 IamGorilla");
   printf("Message-3 SafikhanSoofiyani");
+  printf("Message-4 IamGorilla"); //Merging with safiKhanSoofiyani
 }
