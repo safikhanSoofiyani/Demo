@@ -10,4 +10,6 @@ int main()
   printf("Message-4 IamGorilla"); //Merging with safiKhanSoofiyan
   printf("Message-4 SafikhanSoofiyani"); //Message not visible to IamGorilla
   printf("Last message not visible to IamGorilla");
+  
+  printf("No idea about scanf");
 }
