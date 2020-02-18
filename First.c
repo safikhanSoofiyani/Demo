@@ -12,4 +12,6 @@ int main()
   printf("Last message not visible to IamGorilla");
   
   printf("No idea about scanf");
+  scanf("%d",&a);
+  
 }
